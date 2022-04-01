@@ -1,6 +1,6 @@
 # flutter_toy2
 
-A new Flutter project.
+Bookriendy! 
 
 ## Getting Started
 
